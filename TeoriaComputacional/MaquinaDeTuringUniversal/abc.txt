@@ -1,0 +1,7 @@
+    |     a    |     b    |     c    |     Z    |     Y    |     X    |    B
+*q0 | (q1,X,D) | (zz,z,D) | (zz,z,D) | (zz,z,D) | (q4,Y,D) | (zz,z,D) | (q5,B,D)
+ q1 | (q1,a,D) | (q2,Y,D) | (zz,z,D) | (zz,z,D) | (q1,Y,D) | (zz,z,D) | (zz,z,D)
+ q2 | (zz,z,D) | (q2,b,D) | (q3,Z,I) | (q2,Z,D) | (zz,z,D) | (zz,z,D) | (zz,z,D)
+ q3 | (q3,a,I) | (q3,b,I) | (zz,z,D) | (q3,Z,I) | (q3,Y,I) | (q0,X,D) | (zz,z,D)
+ q4 | (zz,z,D) | (zz,z,D) | (zz,z,D) | (q4,Z,D) | (q4,Y,D) | (zz,z,D) | (q5,B,D)
++q5 |     -    |     -    |     -    |     -    |     -    |     -    |    -
